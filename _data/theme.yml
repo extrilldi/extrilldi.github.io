@@ -23,7 +23,7 @@ t:
 # Google Fonts
 google_fonts:
   - name: "Cutive Mono"
-    weights: "400,400i,500,500i"
+    weights: "400"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
