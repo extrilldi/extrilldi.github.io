@@ -22,7 +22,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Inconsolata"
+  - name: "Space Mono"
     weights: "400,400i,500,500i"
 
 # Link to specific internal pages in the navigation.
