@@ -1,5 +1,5 @@
 ---
-title: The incoherent musings of an irredeemable procastinator
+title: the incoherent musings of an irredeemable procastinator
 layout: about
 published: true
 ---
