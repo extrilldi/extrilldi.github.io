@@ -22,7 +22,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Cutive Mono"
+  - name: "PT Mono"
     weights: "400"
 
 # Link to specific internal pages in the navigation.
