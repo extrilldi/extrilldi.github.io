@@ -26,6 +26,7 @@ author:
 twitter_username:
 github_username: extrilldi
 logo: https://avatars0.githubusercontent.com/u/1904486?v=4 # path of site logo, e.g. "/assets/images/logo.png"
+about-title: about
 
 # Build settings
 markdown: kramdown
